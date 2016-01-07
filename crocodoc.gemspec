@@ -12,7 +12,7 @@ spec = Gem::Specification.new do |s|
   s.homepage = 'https://crocodoc.com/docs/api/'
   s.require_paths = %w{lib}
 
-  s.add_dependency('rest-client', '~> 1.4')
+  s.add_dependency('rest-client', '~> 1.6.7')
   s.add_dependency('json', '~> 1.1')
 
   s.files = `git ls-files`.split("\n")

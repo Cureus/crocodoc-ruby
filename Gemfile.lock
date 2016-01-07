@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    crocodoc (1.0.2)
+      json (~> 1.1)
+      rest-client
+
+GEM
+  remote: http://gems.github.com/
+  specs:
+    json (1.8.3)
+    mime-types (2.99)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crocodoc!
