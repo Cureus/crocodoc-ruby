@@ -1,9 +1,9 @@
 PATH
   remote: .
   specs:
-    crocodoc (1.0.2)
+    crocodoc (1.0.3)
       json (~> 1.1)
-      rest-client
+      rest-client (~> 1.6.7)
 
 GEM
   remote: http://gems.github.com/
